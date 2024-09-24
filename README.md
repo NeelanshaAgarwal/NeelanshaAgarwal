@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="MasterHead" />
+</div>
+
 # 💫 About Me:
 A passionate B.Tech student specializing in AI and Machine Learning at SRMist. I'm skilled in C++, Python, MERN stack, and have a growing interest in Machine Learning, full-stack app development, and software engineering. I love solving problems with code and exploring innovative tech solutions. Currently, I'm building exciting projects in ReactJS, NodeJS, and Express.<br><br>🚀 Let's build something awesome together! Feel free to check out my repositories and connect with me.
 
